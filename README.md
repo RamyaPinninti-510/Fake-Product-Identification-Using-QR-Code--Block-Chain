@@ -1,0 +1,2 @@
+# Fake-Product-Identification-Using-QR-Code--Block-Chain
+Fake Product Identification Using QR Code and Blockchain is a system designed to verify the authenticity of products and prevent counterfeit goods. Each product is assigned a unique QR code that is securely linked to its information stored on a blockchain. When a customer scans the QR code using a mobile application it shows genuine or fake.
